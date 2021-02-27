@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# PROJECT: FINAL PROJECT
+from The Odin Project's [curriculum](https://www.theodinproject.com/courses/javascript/lessons/final-project-116ff273-1e55-4055-bd7f-146c17d0ec9c)
+
+## Overview
+A replica of my favorite website as close as possible.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
